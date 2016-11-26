@@ -1,0 +1,9 @@
+D:\Kampus\Semester V\Latihan C#\Senin_141113082_NaufalHadi\Latihan_1.1\bin\Debug\Latihan_1.1.exe.config
+D:\Kampus\Semester V\Latihan C#\Senin_141113082_NaufalHadi\Latihan_1.1\bin\Debug\Latihan_1.1.exe
+D:\Kampus\Semester V\Latihan C#\Senin_141113082_NaufalHadi\Latihan_1.1\bin\Debug\Latihan_1.1.pdb
+D:\Kampus\Semester V\Latihan C#\Senin_141113082_NaufalHadi\Latihan_1.1\obj\Debug\Latihan_1.1.csprojResolveAssemblyReference.cache
+D:\Kampus\Semester V\Latihan C#\Senin_141113082_NaufalHadi\Latihan_1.1\obj\Debug\Latihan_1._1.Form1.resources
+D:\Kampus\Semester V\Latihan C#\Senin_141113082_NaufalHadi\Latihan_1.1\obj\Debug\Latihan_1._1.Properties.Resources.resources
+D:\Kampus\Semester V\Latihan C#\Senin_141113082_NaufalHadi\Latihan_1.1\obj\Debug\Latihan_1.1.csproj.GenerateResource.Cache
+D:\Kampus\Semester V\Latihan C#\Senin_141113082_NaufalHadi\Latihan_1.1\obj\Debug\Latihan_1.1.exe
+D:\Kampus\Semester V\Latihan C#\Senin_141113082_NaufalHadi\Latihan_1.1\obj\Debug\Latihan_1.1.pdb
